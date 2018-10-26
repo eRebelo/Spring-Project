@@ -1,5 +1,5 @@
 # Java Spring - Maven Project
-  Aplicação Java que demonstra o uso do framework Spring MVC utlizando Hibernate + JPA para persistência de dados no banco.
+  Aplicação Java que demonstra o uso do framework Spring MVC utlizando Hibernate + JPA para persistência de dados.
  
 ## Ambiente de Desenvolvimento
 - Eclipse Neon
